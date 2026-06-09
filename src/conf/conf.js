@@ -5,5 +5,4 @@ const conf = {
   appwriteCollectionId: String(import.meta.env.VITE_APPWRITE_COLLECTION_ID),
   appwriteBuckedId: String(import.meta.env.VITE_APPWRITE_BUCKET_ID),
 };
-
 export default conf;
